@@ -29,7 +29,6 @@ Welcome to **PixelForge AI**, your go-to image enhancement application powered b
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/HimanshuBatra1615/PixelForge-AI.git
-    cd VisionSoC
     ```
 
 2. **Install required Python libraries:**
