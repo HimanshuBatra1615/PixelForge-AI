@@ -55,4 +55,4 @@ PixelForge AI is licensed under the **GNU General Public License (GPL)**. For mo
 
 ---
 
-Elevate your images with VisionSoC and experience the future of image enhancement today!
+Elevate your images with PixelForge AI and experience the future of image enhancement today!
