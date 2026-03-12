@@ -1,6 +1,6 @@
 # 🌟 PixelForge AI
 
-![VisionSoC Output Comparision](/readme-images/VisionSoC%20-%20Sibi%20Siddharth%20S.jpg)
+![VisionSoC Output Comparision](readme-images/PixelForgeAI.png)
 
 Welcome to **PixelForge AI**, your go-to image enhancement application powered by **ESRGAN** (Enhanced Super-Resolution Generative Adversarial Networks). Built with Python and featuring a sleek web interface, PixelForge AI brings cutting-edge image quality improvement right to your fingertips!
 
